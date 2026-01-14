@@ -2,7 +2,7 @@
 // This is for the products html, the logic of the products. Adding new features.
 // building a new features
 
-// Commit #17: Boosting activity log - iteration 17
+// Commit #18: Boosting activity log - iteration 18
 
 
 let productsHtml = "";
