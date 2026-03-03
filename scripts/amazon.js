@@ -1,3 +1,6 @@
+
+// This is for the products html
+
 let productsHtml = "";
 
 products.forEach(product => {
