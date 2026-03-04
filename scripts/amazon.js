@@ -1,5 +1,5 @@
 
-// This is for the products html, the logic of the products
+// This is for the products html, the logic of the products. Adding new features.
 
 let productsHtml = "";
 
