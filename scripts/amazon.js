@@ -1,6 +1,6 @@
 
 // This is for the products html, the logic of the products. Adding new features.
-// building a new feature
+// building a new features
 
 let productsHtml = "";
 
