@@ -2,6 +2,9 @@
 // This is for the products html, the logic of the products. Adding new features.
 // building a new features
 // 123
+
+
+
 let productsHtml = "";
 
 products.forEach(product => {
