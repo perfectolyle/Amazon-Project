@@ -62,10 +62,9 @@ document.querySelector('.js-products-grid').innerHTML = productsHTML;
 
 function updateCartQuantity(){
   let cartQuantity = 0;
-            cart.forEach((item) => {
-                cartQuantity += item.quantity;
+            cart.forEach((cartItem) => {
+                cartQuantity += cartItem.quantity;
             })
-
             document.querySelector('.js-cart-quantity').innerHTML = cartQuantity
 };
 
@@ -76,7 +75,6 @@ document.querySelectorAll('.js-add-to-cart').
 
 
             addToCart(productId);
-
             updateCartQuantity();
         });
     });
